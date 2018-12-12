@@ -1,6 +1,6 @@
 # Secure Messaging with Symmetric and Asymmetric Encryption
 
-A demonstration of security principles for peer-to-peer communications of sensitive content. Read the [full whitepaper](https://github.com/gianlucatruda/nis-encrypted-messaging/whitepaper.pdf).
+A demonstration of security principles for peer-to-peer communications of sensitive content. Read the [full whitepaper](https://github.com/gianlucatruda/nis-encrypted-messaging/raw/master/whitepaper.pdf).
 
 ## Environment
 
